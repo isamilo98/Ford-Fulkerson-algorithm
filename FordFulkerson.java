@@ -1,8 +1,3 @@
-/*
- * Name: Ismail Ziouti
- * ID: 260807219 
- */
-
 import java.io.*;
 import java.util.*;
 

@@ -116,7 +116,7 @@ public class FordFulkerson {
         
     public static void fordfulkerson(Integer source, Integer destination, WGraph graph, String filePath){
         String answer="";
-        String myMcGillID = "260807219"; //Please initialize this variable with your McGill ID
+        String myMcGillID = "2222222"; //Please initialize this variable with your McGill ID
         int maxFlow = 0;
         boolean computing = true;//boolean variable to continue until there is no path founded  
         int bottleneck = 0; //variable to hold the bottleneck        
